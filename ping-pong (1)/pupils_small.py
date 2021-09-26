@@ -1,4 +1,3 @@
-
 from pygame import *
 
 back = (200,255,255)
